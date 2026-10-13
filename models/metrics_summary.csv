@@ -1,0 +1,2 @@
+Model,Split,Accuracy,Precision,Recall,F1,AUC
+EfficientNet-B0 (frozen backbone),Test,0.9769,0.9856,0.9744,0.9800,0.9986

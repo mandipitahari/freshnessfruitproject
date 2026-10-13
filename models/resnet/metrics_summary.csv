@@ -1,0 +1,2 @@
+Model,Split,Accuracy,Precision,Recall,F1,AUC
+ResNet-50 (frozen conv backbone),Test,0.9819,0.9830,0.9858,0.9844,0.9988

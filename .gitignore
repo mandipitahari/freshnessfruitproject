@@ -1,0 +1,7 @@
+data/
+.kaggle/
+.env
+*.ckpt
+*.pt
+*.keras
+__pycache__/

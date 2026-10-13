@@ -1,0 +1,8 @@
+name: fruitfresh-py310
+channels: [conda-forge, defaults]
+dependencies:
+  - python=3.10
+  - pip
+  - pip:
+      - torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
+      - numpy pandas scikit-learn matplotlib opencv-python pillow kaggle jupyterlab
